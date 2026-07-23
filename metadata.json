@@ -1,0 +1,6 @@
+{
+  "name": "MousePad",
+  "description": "Turn your phone into a Bluetooth mouse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
