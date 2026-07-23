@@ -6,7 +6,7 @@
 
 ## 🎯 Objetivo do Aplicativo
 
-O **OmniControl Bluetooth** (também conhecido como **OmniControl Bluetooth**) foi desenvolvido para transformar qualquer smartphone Android em um periférico físico sem fio padrão **Bluetooth HID (Human Interface Device)**. 
+O **OmniControl Bluetooth** foi desenvolvido para transformar qualquer smartphone Android em um periférico físico sem fio padrão **Bluetooth HID (Human Interface Device)**. 
 
 Diferente de outros aplicativos do mercado, ele se conecta diretamente a computadores (Windows, Mac, Linux), Smart TVs, Android TV, Consoles e Tablets **sem exigir a instalação de qualquer aplicativo ou servidor cliente** no dispositivo de destino. O dispositivo receptor reconhece o celular nativamente como se fosse um mouse e teclado USB/Bluetooth físicos.
 
